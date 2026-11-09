@@ -52,7 +52,7 @@
         "wk:page":"Kougpaka"
     },
     "wof:country":"BF",
-    "wof:geomhash":"3e83f8709a8815130f8a7c3862007427",
+    "wof:geomhash":"5c1c32ef0a87015095cb7b685d7c4b1a",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -75,5 +75,5 @@
     -1.68333,
     12.0
 ],
-  "geometry": {"coordinates":[-1.68333,12.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.68333,12],"type":"Point"}
 }

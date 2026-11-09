@@ -48,7 +48,7 @@
         "wk:page":"Naborgane"
     },
     "wof:country":"BF",
-    "wof:geomhash":"73a58c24004be926f40cea09dc6ef771",
+    "wof:geomhash":"26d885fafceaeb4aa80ca8ff3586a987",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     -3.36667,
     11.0
 ],
-  "geometry": {"coordinates":[-3.36667,11.0],"type":"Point"}
+  "geometry": {"coordinates":[-3.36667,11],"type":"Point"}
 }

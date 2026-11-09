@@ -41,7 +41,7 @@
         "gn:id":2354710
     },
     "wof:country":"BF",
-    "wof:geomhash":"c7b9f1beb79d251c67f90a963bdd49f9",
+    "wof:geomhash":"6454f184731979fe08e1b4c91ef37da1",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     -5.08333,
     11.0
 ],
-  "geometry": {"coordinates":[-5.08333,11.0],"type":"Point"}
+  "geometry": {"coordinates":[-5.08333,11],"type":"Point"}
 }

@@ -48,7 +48,7 @@
         "wk:page":"Dioro%2C_Burkina_Faso"
     },
     "wof:country":"BF",
-    "wof:geomhash":"930b84409876b4b312589fc65db9b7ad",
+    "wof:geomhash":"7c054c221300397b838dc431eb452089",
     "wof:hierarchy":[
         {
             "country_id":85632213,
@@ -71,5 +71,5 @@
     -3.0,
     10.41667
 ],
-  "geometry": {"coordinates":[-3.0,10.41667],"type":"Point"}
+  "geometry": {"coordinates":[-3,10.41667],"type":"Point"}
 }

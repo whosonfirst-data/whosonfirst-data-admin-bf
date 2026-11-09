@@ -62,7 +62,7 @@
         "wk:page":"Zambo_Department"
     },
     "wof:country":"BF",
-    "wof:geomhash":"b85f026cad4d1f229956fd30014b3075",
+    "wof:geomhash":"cf7d29300ee02b7c3d811fc84be3d358",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -88,5 +88,5 @@
     -3.0,
     10.81667
 ],
-  "geometry": {"coordinates":[-3.0,10.81667],"type":"Point"}
+  "geometry": {"coordinates":[-3,10.81667],"type":"Point"}
 }

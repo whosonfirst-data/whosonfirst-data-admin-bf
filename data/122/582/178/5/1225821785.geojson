@@ -48,7 +48,7 @@
         "wk:page":"Nabal%C3%A9"
     },
     "wof:country":"BF",
-    "wof:geomhash":"9331e5a0235f3024d60ea017b01af493",
+    "wof:geomhash":"4ee5da075d0672607f9d8d6eb7d56135",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     -3.48333,
     11.0
 ],
-  "geometry": {"coordinates":[-3.48333,11.0],"type":"Point"}
+  "geometry": {"coordinates":[-3.48333,11],"type":"Point"}
 }

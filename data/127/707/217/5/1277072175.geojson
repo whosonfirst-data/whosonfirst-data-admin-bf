@@ -51,7 +51,7 @@
         "wk:page":"Sam%2C_Boulkiemd%C3%A9"
     },
     "wof:country":"BF",
-    "wof:geomhash":"a848b1660b6158c84d5d5fd4f0b8992b",
+    "wof:geomhash":"228180d342a16cfa36e28e1120a9849c",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -77,5 +77,5 @@
     -2.0,
     12.08333
 ],
-  "geometry": {"coordinates":[-2.0,12.08333],"type":"Point"}
+  "geometry": {"coordinates":[-2,12.08333],"type":"Point"}
 }

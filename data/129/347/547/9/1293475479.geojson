@@ -48,7 +48,7 @@
         "wk:page":"Komonga"
     },
     "wof:country":"BF",
-    "wof:geomhash":"ab423beb875795722dd82b256ab4addf",
+    "wof:geomhash":"6503139fbaf9bcf84d48edeb2bc8469d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     -0.08333,
     13.0
 ],
-  "geometry": {"coordinates":[-0.08333,13.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.08333,13],"type":"Point"}
 }

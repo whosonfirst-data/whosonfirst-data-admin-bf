@@ -54,7 +54,7 @@
         "wk:page":"Seyou"
     },
     "wof:country":"BF",
-    "wof:geomhash":"68a04d5ba440f26bdcb6d83500779b7c",
+    "wof:geomhash":"152e2fbb5c8509f7ddb950aaa6a71baf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     -2.93333,
     12.0
 ],
-  "geometry": {"coordinates":[-2.93333,12.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.93333,12],"type":"Point"}
 }
