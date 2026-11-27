@@ -1,0 +1,74 @@
+{
+  "id": 9895011862,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.07144,14.51426,0.07144,14.51426",
+    "geom:latitude":14.51426,
+    "geom:longitude":0.07144,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12276847: name \"Tin-Zoubaraten\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12276847"
+        },
+        {
+            "citation":"GeoNames populated place 12276847: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12276847"
+        },
+        {
+            "citation":"GeoNames populated place 12276847: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12276847"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413153 (Oudalan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413153,
+        1108805689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12276847
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"370f3e9d92d3accf6aa37a8b06e64bb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413153,
+            "locality_id":9895011862,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":9895011862,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Tin-Zoubaraten",
+    "wof:parent_id":890413153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.07144,
+    14.51426,
+    0.07144,
+    14.51426
+],
+  "geometry": {"coordinates":[0.07144,14.51426],"type":"Point"}
+}

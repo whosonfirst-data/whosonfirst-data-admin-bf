@@ -1,0 +1,74 @@
+{
+  "id": 9895011476,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.51225,13.36293,-1.51225,13.36293",
+    "geom:latitude":13.36293,
+    "geom:longitude":-1.51225,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2362975: name \"Bam\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2362975"
+        },
+        {
+            "citation":"GeoNames populated place 2362975: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2362975"
+        },
+        {
+            "citation":"GeoNames populated place 2362975: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2362975"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428989 (Bam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428989,
+        1108805709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2362975
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4c68823f9f3057435407b05f84693dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":9895011476,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":9895011476,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Bam",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.51225,
+    13.36293,
+    -1.51225,
+    13.36293
+],
+  "geometry": {"coordinates":[-1.51225,13.36293],"type":"Point"}
+}

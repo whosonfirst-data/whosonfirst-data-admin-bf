@@ -1,0 +1,74 @@
+{
+  "id": 9895012609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.22383,12.38052,-0.22383,12.38052",
+    "geom:latitude":12.38052,
+    "geom:longitude":-0.22383,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631741: name \"Koundi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631741"
+        },
+        {
+            "citation":"GeoNames populated place 13631741: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631741"
+        },
+        {
+            "citation":"GeoNames populated place 13631741: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631741"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413163 (Kouritenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413163,
+        1108805705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631741
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5be6d041248d68039a76621ed9302649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413163,
+            "locality_id":9895012609,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":9895012609,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Koundi",
+    "wof:parent_id":890413163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.22383,
+    12.38052,
+    -0.22383,
+    12.38052
+],
+  "geometry": {"coordinates":[-0.22383,12.38052],"type":"Point"}
+}

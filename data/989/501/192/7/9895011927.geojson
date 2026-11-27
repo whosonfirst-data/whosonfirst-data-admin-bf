@@ -1,0 +1,74 @@
+{
+  "id": 9895011927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.78932,13.94727,-1.78932,13.94727",
+    "geom:latitude":13.94727,
+    "geom:longitude":-1.78932,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12402244: name \"Mamassirou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12402244"
+        },
+        {
+            "citation":"GeoNames populated place 12402244: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12402244"
+        },
+        {
+            "citation":"GeoNames populated place 12402244: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12402244"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421463 (Soum), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890421463,
+        1108805689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12402244
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"4c66279ce615e5a6510604d1c8e177f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421463,
+            "locality_id":9895011927,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":9895011927,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Mamassirou",
+    "wof:parent_id":890421463,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.78932,
+    13.94727,
+    -1.78932,
+    13.94727
+],
+  "geometry": {"coordinates":[-1.78932,13.94727],"type":"Point"}
+}

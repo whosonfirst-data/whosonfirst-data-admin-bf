@@ -1,0 +1,74 @@
+{
+  "id": 9895012353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.16944,12.34579,0.16944,12.34579",
+    "geom:latitude":12.34579,
+    "geom:longitude":0.16944,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13192760: name \"Kogossi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13192760"
+        },
+        {
+            "citation":"GeoNames populated place 13192760: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13192760"
+        },
+        {
+            "citation":"GeoNames populated place 13192760: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13192760"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428971 (Gourma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428971,
+        1108805685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13192760
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"57c134d5c2b74a46f48a61b53dc03919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428971,
+            "locality_id":9895012353,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":9895012353,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Kogossi",
+    "wof:parent_id":890428971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.16944,
+    12.34579,
+    0.16944,
+    12.34579
+],
+  "geometry": {"coordinates":[0.16944,12.34579],"type":"Point"}
+}

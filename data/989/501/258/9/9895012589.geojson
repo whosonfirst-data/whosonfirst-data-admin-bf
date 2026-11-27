@@ -1,0 +1,74 @@
+{
+  "id": 9895012589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.1205,13.52545,0.1205,13.52545",
+    "geom:latitude":13.52545,
+    "geom:longitude":0.1205,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13608359: name \"Fantiangou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13608359"
+        },
+        {
+            "citation":"GeoNames populated place 13608359: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13608359"
+        },
+        {
+            "citation":"GeoNames populated place 13608359: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13608359"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890422529 (Yagha), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890422529,
+        1108805689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13608359
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"41949af3dbd5f6298378e366664ad44c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":9895012589,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":9895012589,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Fantiangou",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.1205,
+    13.52545,
+    0.1205,
+    13.52545
+],
+  "geometry": {"coordinates":[0.1205,13.52545],"type":"Point"}
+}

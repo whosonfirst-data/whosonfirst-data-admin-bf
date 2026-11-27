@@ -1,0 +1,74 @@
+{
+  "id": 9895012156,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.04572,12.34007,1.04572,12.34007",
+    "geom:latitude":12.34007,
+    "geom:longitude":1.04572,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12495527: name \"Bankartougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12495527"
+        },
+        {
+            "citation":"GeoNames populated place 12495527: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12495527"
+        },
+        {
+            "citation":"GeoNames populated place 12495527: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12495527"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428971 (Gourma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428971,
+        1108805685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12495527
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7eb3e1b1b3ed5e8910ba839e4a7a0df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428971,
+            "locality_id":9895012156,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":9895012156,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Bankartougou",
+    "wof:parent_id":890428971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.04572,
+    12.34007,
+    1.04572,
+    12.34007
+],
+  "geometry": {"coordinates":[1.04572,12.34007],"type":"Point"}
+}

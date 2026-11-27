@@ -1,0 +1,74 @@
+{
+  "id": 9895011736,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.50901,13.27147,0.50901,13.27147",
+    "geom:latitude":13.27147,
+    "geom:longitude":0.50901,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12167279: name \"Yoba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12167279"
+        },
+        {
+            "citation":"GeoNames populated place 12167279: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12167279"
+        },
+        {
+            "citation":"GeoNames populated place 12167279: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12167279"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890422529 (Yagha), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890422529,
+        1108805689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12167279
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"278e7da67b65666b9b2ddf5f7fd93ed6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":9895011736,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":9895011736,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Yoba",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.50901,
+    13.27147,
+    0.50901,
+    13.27147
+],
+  "geometry": {"coordinates":[0.50901,13.27147],"type":"Point"}
+}

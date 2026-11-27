@@ -1,0 +1,74 @@
+{
+  "id": 9895011743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.13048,13.56342,-0.13048,13.56342",
+    "geom:latitude":13.56342,
+    "geom:longitude":-0.13048,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12175874: name \"Boula\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12175874"
+        },
+        {
+            "citation":"GeoNames populated place 12175874: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12175874"
+        },
+        {
+            "citation":"GeoNames populated place 12175874: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12175874"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428975 (Gnagna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428975,
+        1108805685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12175874
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5761f6ca65ac9cee75a5d189aae68d70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":9895011743,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":9895011743,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Boula",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.13048,
+    13.56342,
+    -0.13048,
+    13.56342
+],
+  "geometry": {"coordinates":[-0.13048,13.56342],"type":"Point"}
+}

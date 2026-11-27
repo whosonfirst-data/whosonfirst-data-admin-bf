@@ -1,0 +1,74 @@
+{
+  "id": 9895011883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.89875,13.61524,-0.89875,13.61524",
+    "geom:latitude":13.61524,
+    "geom:longitude":-0.89875,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12324292: name \"Zenz\u00e8ba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12324292"
+        },
+        {
+            "citation":"GeoNames populated place 12324292: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12324292"
+        },
+        {
+            "citation":"GeoNames populated place 12324292: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12324292"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413147 (Sanmatenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413147,
+        1108805709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12324292
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e214b5877b29b9a521a98dfc2943a6a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":9895011883,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":9895011883,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Zenz\u00e8ba",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.89875,
+    13.61524,
+    -0.89875,
+    13.61524
+],
+  "geometry": {"coordinates":[-0.89875,13.61524],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895011715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0012,14.46448,0.0012,14.46448",
+    "geom:latitude":14.46448,
+    "geom:longitude":0.0012,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12104927: name \"Goseye-Site\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12104927"
+        },
+        {
+            "citation":"GeoNames populated place 12104927: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12104927"
+        },
+        {
+            "citation":"GeoNames populated place 12104927: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12104927"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413153 (Oudalan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413153,
+        1108805689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12104927
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"95ac3b71fdb484feb5b12548deea7886",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413153,
+            "locality_id":9895011715,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":9895011715,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Goseye-Site",
+    "wof:parent_id":890413153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0012,
+    14.46448,
+    0.0012,
+    14.46448
+],
+  "geometry": {"coordinates":[0.0012,14.46448],"type":"Point"}
+}

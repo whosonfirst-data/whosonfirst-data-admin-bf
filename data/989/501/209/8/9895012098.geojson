@@ -1,0 +1,74 @@
+{
+  "id": 9895012098,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.5172,13.4411,-1.5172,13.4411",
+    "geom:latitude":13.4411,
+    "geom:longitude":-1.5172,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493453: name \"Zimtanga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493453"
+        },
+        {
+            "citation":"GeoNames populated place 12493453: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493453"
+        },
+        {
+            "citation":"GeoNames populated place 12493453: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493453"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428989 (Bam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428989,
+        1108805709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493453
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e74ca0db4a397c944ce95714417170d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":9895012098,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":9895012098,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Zimtanga",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.5172,
+    13.4411,
+    -1.5172,
+    13.4411
+],
+  "geometry": {"coordinates":[-1.5172,13.4411],"type":"Point"}
+}

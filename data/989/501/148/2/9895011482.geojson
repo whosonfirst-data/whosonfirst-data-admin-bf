@@ -1,0 +1,74 @@
+{
+  "id": 9895011482,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.80383,12.43784,-1.80383,12.43784",
+    "geom:latitude":12.43784,
+    "geom:longitude":-1.80383,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11911127: name \"Bangassompissen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11911127"
+        },
+        {
+            "citation":"GeoNames populated place 11911127: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11911127"
+        },
+        {
+            "citation":"GeoNames populated place 11911127: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11911127"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890453945 (Kourw\u00e9ogo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890453945,
+        1108805691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11911127
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e36890f9eef388171c9306b1b94fe7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":9895011482,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":9895011482,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Bangassompissen",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.80383,
+    12.43784,
+    -1.80383,
+    12.43784
+],
+  "geometry": {"coordinates":[-1.80383,12.43784],"type":"Point"}
+}

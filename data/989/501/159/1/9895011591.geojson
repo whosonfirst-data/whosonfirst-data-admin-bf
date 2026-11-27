@@ -1,0 +1,74 @@
+{
+  "id": 9895011591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.43777,12.50334,-1.43777,12.50334",
+    "geom:latitude":12.50334,
+    "geom:longitude":-1.43777,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11947757: name \"Tangzougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11947757"
+        },
+        {
+            "citation":"GeoNames populated place 11947757: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11947757"
+        },
+        {
+            "citation":"GeoNames populated place 11947757: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11947757"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413157 (Oubritenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413157,
+        1108805691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11947757
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6c1cf2d858280966201f6659bcc556ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413157,
+            "locality_id":9895011591,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":9895011591,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Tangzougou",
+    "wof:parent_id":890413157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.43777,
+    12.50334,
+    -1.43777,
+    12.50334
+],
+  "geometry": {"coordinates":[-1.43777,12.50334],"type":"Point"}
+}

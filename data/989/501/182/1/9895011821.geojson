@@ -1,0 +1,74 @@
+{
+  "id": 9895011821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.66326,12.03885,0.66326,12.03885",
+    "geom:latitude":12.03885,
+    "geom:longitude":0.66326,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12253357: name \"Gany\u00e8la\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12253357"
+        },
+        {
+            "citation":"GeoNames populated place 12253357: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12253357"
+        },
+        {
+            "citation":"GeoNames populated place 12253357: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12253357"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428971 (Gourma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428971,
+        1108805685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12253357
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"676bc7fc57b9f9aa9b5836b5a5e03c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428971,
+            "locality_id":9895011821,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":9895011821,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Gany\u00e8la",
+    "wof:parent_id":890428971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.66326,
+    12.03885,
+    0.66326,
+    12.03885
+],
+  "geometry": {"coordinates":[0.66326,12.03885],"type":"Point"}
+}

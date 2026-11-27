@@ -1,0 +1,74 @@
+{
+  "id": 9895012201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.1221,11.1113,0.1221,11.1113",
+    "geom:latitude":11.1113,
+    "geom:longitude":0.1221,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12639888: name \"Kombilga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12639888"
+        },
+        {
+            "citation":"GeoNames populated place 12639888: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12639888"
+        },
+        {
+            "citation":"GeoNames populated place 12639888: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12639888"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421707 (Koulp\u00e9logo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890421707,
+        1108805705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12639888
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"9adebfa2f72b880bfa4d7c5b5cbebce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421707,
+            "locality_id":9895012201,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":9895012201,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Kombilga",
+    "wof:parent_id":890421707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.1221,
+    11.1113,
+    0.1221,
+    11.1113
+],
+  "geometry": {"coordinates":[0.1221,11.1113],"type":"Point"}
+}

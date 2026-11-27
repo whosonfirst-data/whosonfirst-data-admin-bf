@@ -1,0 +1,74 @@
+{
+  "id": 9895012415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.03949,12.74252,-1.03949,12.74252",
+    "geom:latitude":12.74252,
+    "geom:longitude":-1.03949,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13443086: name \"Sogoden\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13443086"
+        },
+        {
+            "citation":"GeoNames populated place 13443086: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13443086"
+        },
+        {
+            "citation":"GeoNames populated place 13443086: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13443086"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413147 (Sanmatenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413147,
+        1108805709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13443086
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"cac4061b89eff4882ae35397b9596fc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413147,
+            "locality_id":9895012415,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":9895012415,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Sogoden",
+    "wof:parent_id":890413147,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.03949,
+    12.74252,
+    -1.03949,
+    12.74252
+],
+  "geometry": {"coordinates":[-1.03949,12.74252],"type":"Point"}
+}

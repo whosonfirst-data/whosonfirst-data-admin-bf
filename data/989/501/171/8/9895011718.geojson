@@ -1,0 +1,74 @@
+{
+  "id": 9895011718,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.63607,14.10248,-2.63607,14.10248",
+    "geom:latitude":14.10248,
+    "geom:longitude":-2.63607,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12110480: name \"Tiabwal\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12110480"
+        },
+        {
+            "citation":"GeoNames populated place 12110480: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12110480"
+        },
+        {
+            "citation":"GeoNames populated place 12110480: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12110480"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421457 (Yatenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890421457,
+        1108805701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12110480
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"fd0bdd7890863e6c36a98cf9513383d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":9895011718,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":9895011718,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Tiabwal",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.63607,
+    14.10248,
+    -2.63607,
+    14.10248
+],
+  "geometry": {"coordinates":[-2.63607,14.10248],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895011784,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.5977,13.6612,0.5977,13.6612",
+    "geom:latitude":13.6612,
+    "geom:longitude":0.5977,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12225001: name \"Maleri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12225001"
+        },
+        {
+            "citation":"GeoNames populated place 12225001: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12225001"
+        },
+        {
+            "citation":"GeoNames populated place 12225001: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12225001"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890422529 (Yagha), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890422529,
+        1108805689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12225001
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"73d0ba816d9fbe8b538a14b76bc0ae49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890422529,
+            "locality_id":9895011784,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":9895011784,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Maleri",
+    "wof:parent_id":890422529,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.5977,
+    13.6612,
+    0.5977,
+    13.6612
+],
+  "geometry": {"coordinates":[0.5977,13.6612],"type":"Point"}
+}

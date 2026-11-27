@@ -1,0 +1,74 @@
+{
+  "id": 9895011543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.78696,12.53306,-1.78696,12.53306",
+    "geom:latitude":12.53306,
+    "geom:longitude":-1.78696,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11913676: name \"Tampelga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11913676"
+        },
+        {
+            "citation":"GeoNames populated place 11913676: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11913676"
+        },
+        {
+            "citation":"GeoNames populated place 11913676: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11913676"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890453945 (Kourw\u00e9ogo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890453945,
+        1108805691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11913676
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"11c6fe147dafbe944770d7284ec534bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453945,
+            "locality_id":9895011543,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":9895011543,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Tampelga",
+    "wof:parent_id":890453945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.78696,
+    12.53306,
+    -1.78696,
+    12.53306
+],
+  "geometry": {"coordinates":[-1.78696,12.53306],"type":"Point"}
+}

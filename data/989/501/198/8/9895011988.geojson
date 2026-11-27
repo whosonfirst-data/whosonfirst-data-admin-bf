@@ -1,0 +1,74 @@
+{
+  "id": 9895011988,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.26285,11.21719,-0.26285,11.21719",
+    "geom:latitude":11.21719,
+    "geom:longitude":-0.26285,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12440360: name \"Nohao\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12440360"
+        },
+        {
+            "citation":"GeoNames populated place 12440360: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12440360"
+        },
+        {
+            "citation":"GeoNames populated place 12440360: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12440360"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428983 (Boulgou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428983,
+        1108805705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12440360
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"3087eb6521cec57decc6fcc2bd633ec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":9895011988,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":9895011988,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Nohao",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.26285,
+    11.21719,
+    -0.26285,
+    11.21719
+],
+  "geometry": {"coordinates":[-0.26285,11.21719],"type":"Point"}
+}

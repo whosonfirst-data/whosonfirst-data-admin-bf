@@ -1,0 +1,74 @@
+{
+  "id": 9895012055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.20373,14.02802,0.20373,14.02802",
+    "geom:latitude":14.02802,
+    "geom:longitude":0.20373,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12470350: name \"Boka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12470350"
+        },
+        {
+            "citation":"GeoNames populated place 12470350: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12470350"
+        },
+        {
+            "citation":"GeoNames populated place 12470350: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12470350"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413145 (S\u00e9no), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413145,
+        1108805689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12470350
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"06bcd19ecda025c019f41a4c32aefdc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":9895012055,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":9895012055,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Boka",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.20373,
+    14.02802,
+    0.20373,
+    14.02802
+],
+  "geometry": {"coordinates":[0.20373,14.02802],"type":"Point"}
+}

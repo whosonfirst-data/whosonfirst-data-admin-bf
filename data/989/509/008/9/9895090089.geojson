@@ -1,0 +1,74 @@
+{
+  "id": 9895090089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.20972,11.14722,-0.20972,11.14722",
+    "geom:latitude":11.14722,
+    "geom:longitude":-0.20972,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12746949: name \"Kulungungu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12746949"
+        },
+        {
+            "citation":"GeoNames populated place 12746949: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12746949"
+        },
+        {
+            "citation":"GeoNames populated place 12746949: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12746949"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428983 (Boulgou), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428983,
+        1108805705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12746949
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"8a0a57e75365d0b65217eae96ded6c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":9895090089,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":9895090089,
+    "wof:lastmodified":1795746181,
+    "wof:name":"Kulungungu",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.20972,
+    11.14722,
+    -0.20972,
+    11.14722
+],
+  "geometry": {"coordinates":[-0.20972,11.14722],"type":"Point"}
+}

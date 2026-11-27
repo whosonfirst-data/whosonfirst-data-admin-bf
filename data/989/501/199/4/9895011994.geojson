@@ -1,0 +1,74 @@
+{
+  "id": 9895011994,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.10632,11.18763,-0.10632,11.18763",
+    "geom:latitude":11.18763,
+    "geom:longitude":-0.10632,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12440366: name \"Anago\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12440366"
+        },
+        {
+            "citation":"GeoNames populated place 12440366: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12440366"
+        },
+        {
+            "citation":"GeoNames populated place 12440366: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12440366"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428983 (Boulgou), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428983,
+        1108805705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12440366
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"5c8f25171a374c91e58aca9c81d372e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428983,
+            "locality_id":9895011994,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":9895011994,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Anago",
+    "wof:parent_id":890428983,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.10632,
+    11.18763,
+    -0.10632,
+    11.18763
+],
+  "geometry": {"coordinates":[-0.10632,11.18763],"type":"Point"}
+}

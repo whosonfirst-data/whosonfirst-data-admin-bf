@@ -1,0 +1,74 @@
+{
+  "id": 9895011494,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.68612,12.26264,-1.68612,12.26264",
+    "geom:latitude":12.26264,
+    "geom:longitude":-1.68612,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11911807: name \"Dazanki\u00e9ma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11911807"
+        },
+        {
+            "citation":"GeoNames populated place 11911807: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11911807"
+        },
+        {
+            "citation":"GeoNames populated place 11911807: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11911807"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421187907 (Kadiogo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        421187907,
+        1108805693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11911807
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"d897dec8e928e08823ca7742e1f6077e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":421187907,
+            "locality_id":9895011494,
+            "region_id":1108805693
+        }
+    ],
+    "wof:id":9895011494,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Dazanki\u00e9ma",
+    "wof:parent_id":421187907,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.68612,
+    12.26264,
+    -1.68612,
+    12.26264
+],
+  "geometry": {"coordinates":[-1.68612,12.26264],"type":"Point"}
+}

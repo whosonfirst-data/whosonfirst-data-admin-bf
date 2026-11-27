@@ -1,0 +1,74 @@
+{
+  "id": 9895011521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.75204,12.0489,-1.75204,12.0489",
+    "geom:latitude":12.0489,
+    "geom:longitude":-1.75204,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11912836: name \"Ouapiamsi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11912836"
+        },
+        {
+            "citation":"GeoNames populated place 11912836: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11912836"
+        },
+        {
+            "citation":"GeoNames populated place 11912836: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11912836"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693649 (Baz\u00e8ga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        1108693649,
+        1108805699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11912836
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"7e6d6914275a4fc59255041c1c2a5b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693649,
+            "locality_id":9895011521,
+            "region_id":1108805699
+        }
+    ],
+    "wof:id":9895011521,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Ouapiamsi",
+    "wof:parent_id":1108693649,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.75204,
+    12.0489,
+    -1.75204,
+    12.0489
+],
+  "geometry": {"coordinates":[-1.75204,12.0489],"type":"Point"}
+}

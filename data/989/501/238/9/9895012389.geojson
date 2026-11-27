@@ -1,0 +1,74 @@
+{
+  "id": 9895012389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.2585,12.89346,0.2585,12.89346",
+    "geom:latitude":12.89346,
+    "geom:longitude":0.2585,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13308889: name \"Harteri\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13308889"
+        },
+        {
+            "citation":"GeoNames populated place 13308889: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13308889"
+        },
+        {
+            "citation":"GeoNames populated place 13308889: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13308889"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428975 (Gnagna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428975,
+        1108805685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13308889
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c479f419ac168339d7ca2d6d2f6eed1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":9895012389,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":9895012389,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Harteri",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.2585,
+    12.89346,
+    0.2585,
+    12.89346
+],
+  "geometry": {"coordinates":[0.2585,12.89346],"type":"Point"}
+}

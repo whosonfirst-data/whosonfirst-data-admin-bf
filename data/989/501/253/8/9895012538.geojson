@@ -1,0 +1,74 @@
+{
+  "id": 9895012538,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.56474,10.58608,-4.56474,10.58608",
+    "geom:latitude":10.58608,
+    "geom:longitude":-4.56474,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13591665: name \"Kangounaba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13591665"
+        },
+        {
+            "citation":"GeoNames populated place 13591665: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13591665"
+        },
+        {
+            "citation":"GeoNames populated place 13591665: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13591665"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413167 (Como\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413167,
+        1108805703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13591665
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"6c22b55a70409b196fb0d7cf84e48dad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":9895012538,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":9895012538,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Kangounaba",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.56474,
+    10.58608,
+    -4.56474,
+    10.58608
+],
+  "geometry": {"coordinates":[-4.56474,10.58608],"type":"Point"}
+}

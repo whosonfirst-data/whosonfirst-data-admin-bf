@@ -1,0 +1,74 @@
+{
+  "id": 9895011704,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.49877,14.01676,-0.49877,14.01676",
+    "geom:latitude":14.01676,
+    "geom:longitude":-0.49877,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12076650: name \"Bouloye-Siguidi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12076650"
+        },
+        {
+            "citation":"GeoNames populated place 12076650: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12076650"
+        },
+        {
+            "citation":"GeoNames populated place 12076650: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12076650"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413145 (S\u00e9no), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413145,
+        1108805689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12076650
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"c6642ca0a98128c230527e0935acbd9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413145,
+            "locality_id":9895011704,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":9895011704,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Bouloye-Siguidi",
+    "wof:parent_id":890413145,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.49877,
+    14.01676,
+    -0.49877,
+    14.01676
+],
+  "geometry": {"coordinates":[-0.49877,14.01676],"type":"Point"}
+}

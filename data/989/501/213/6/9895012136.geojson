@@ -1,0 +1,74 @@
+{
+  "id": 9895012136,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.0986,11.14032,0.0986,11.14032",
+    "geom:latitude":11.14032,
+    "geom:longitude":0.0986,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12495027: name \"Zaoga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12495027"
+        },
+        {
+            "citation":"GeoNames populated place 12495027: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12495027"
+        },
+        {
+            "citation":"GeoNames populated place 12495027: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12495027"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421707 (Koulp\u00e9logo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890421707,
+        1108805705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12495027
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a671d0f6f53dc527a45f215ae6587049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421707,
+            "locality_id":9895012136,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":9895012136,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Zaoga",
+    "wof:parent_id":890421707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0986,
+    11.14032,
+    0.0986,
+    11.14032
+],
+  "geometry": {"coordinates":[0.0986,11.14032],"type":"Point"}
+}

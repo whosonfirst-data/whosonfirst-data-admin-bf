@@ -1,0 +1,74 @@
+{
+  "id": 9895012611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.41751,12.28479,-0.41751,12.28479",
+    "geom:latitude":12.28479,
+    "geom:longitude":-0.41751,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13631744: name \"Firougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13631744"
+        },
+        {
+            "citation":"GeoNames populated place 13631744: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13631744"
+        },
+        {
+            "citation":"GeoNames populated place 13631744: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13631744"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413163 (Kouritenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413163,
+        1108805705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13631744
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ed01433f6785629bf0086b20107aea10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413163,
+            "locality_id":9895012611,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":9895012611,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Firougou",
+    "wof:parent_id":890413163,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.41751,
+    12.28479,
+    -0.41751,
+    12.28479
+],
+  "geometry": {"coordinates":[-0.41751,12.28479],"type":"Point"}
+}

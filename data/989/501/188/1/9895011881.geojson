@@ -1,0 +1,74 @@
+{
+  "id": 9895011881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.44917,13.56157,-1.44917,13.56157",
+    "geom:latitude":13.56157,
+    "geom:longitude":-1.44917,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12324289: name \"Kalagr\u00e9-Rima\u00efbe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12324289"
+        },
+        {
+            "citation":"GeoNames populated place 12324289: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12324289"
+        },
+        {
+            "citation":"GeoNames populated place 12324289: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12324289"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428989 (Bam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428989,
+        1108805709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12324289
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0b63b380a72f130653a331707be93f86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":9895011881,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":9895011881,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Kalagr\u00e9-Rima\u00efbe",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.44917,
+    13.56157,
+    -1.44917,
+    13.56157
+],
+  "geometry": {"coordinates":[-1.44917,13.56157],"type":"Point"}
+}

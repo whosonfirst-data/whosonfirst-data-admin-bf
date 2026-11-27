@@ -1,0 +1,74 @@
+{
+  "id": 9895012298,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.92808,10.87452,-2.92808,10.87452",
+    "geom:latitude":10.87452,
+    "geom:longitude":-2.92808,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13163760: name \"Vlombon\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13163760"
+        },
+        {
+            "citation":"GeoNames populated place 13163760: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13163760"
+        },
+        {
+            "citation":"GeoNames populated place 13163760: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13163760"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890416509 (Ioba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890416509,
+        1108805683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13163760
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e668547419b5529ed1d7687bec5e5301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890416509,
+            "locality_id":9895012298,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":9895012298,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Vlombon",
+    "wof:parent_id":890416509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.92808,
+    10.87452,
+    -2.92808,
+    10.87452
+],
+  "geometry": {"coordinates":[-2.92808,10.87452],"type":"Point"}
+}

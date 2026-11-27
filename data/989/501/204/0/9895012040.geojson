@@ -1,0 +1,74 @@
+{
+  "id": 9895012040,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.30108,14.99655,-0.30108,14.99655",
+    "geom:latitude":14.99655,
+    "geom:longitude":-0.30108,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12470139: name \"Kacham-Est\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12470139"
+        },
+        {
+            "citation":"GeoNames populated place 12470139: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12470139"
+        },
+        {
+            "citation":"GeoNames populated place 12470139: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12470139"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413153 (Oudalan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413153,
+        1108805689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12470139
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2d9d8c0254d167306cd2932da84cffc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413153,
+            "locality_id":9895012040,
+            "region_id":1108805689
+        }
+    ],
+    "wof:id":9895012040,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Kacham-Est",
+    "wof:parent_id":890413153,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.30108,
+    14.99655,
+    -0.30108,
+    14.99655
+],
+  "geometry": {"coordinates":[-0.30108,14.99655],"type":"Point"}
+}

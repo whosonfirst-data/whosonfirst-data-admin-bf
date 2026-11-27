@@ -1,0 +1,74 @@
+{
+  "id": 9895011931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.8732,10.17951,-2.8732,10.17951",
+    "geom:latitude":10.17951,
+    "geom:longitude":-2.8732,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12402252: name \"Opor-Badouor\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12402252"
+        },
+        {
+            "citation":"GeoNames populated place 12402252: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12402252"
+        },
+        {
+            "citation":"GeoNames populated place 12402252: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12402252"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108693643 (Noumbiel), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        1108693643,
+        1108805683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12402252
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e9fcb6e0dd3e53459e0649f52a06b14d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":1108693643,
+            "locality_id":9895011931,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":9895011931,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Opor-Badouor",
+    "wof:parent_id":1108693643,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.8732,
+    10.17951,
+    -2.8732,
+    10.17951
+],
+  "geometry": {"coordinates":[-2.8732,10.17951],"type":"Point"}
+}

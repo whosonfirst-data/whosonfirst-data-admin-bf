@@ -1,0 +1,74 @@
+{
+  "id": 9895012543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-4.66561,10.65721,-4.66561,10.65721",
+    "geom:latitude":10.65721,
+    "geom:longitude":-4.66561,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13591670: name \"Labola Sankrala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13591670"
+        },
+        {
+            "citation":"GeoNames populated place 13591670: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13591670"
+        },
+        {
+            "citation":"GeoNames populated place 13591670: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13591670"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413167 (Como\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413167,
+        1108805703
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13591670
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"18fc77be5f3ed5b539b115ecac29fd66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413167,
+            "locality_id":9895012543,
+            "region_id":1108805703
+        }
+    ],
+    "wof:id":9895012543,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Labola Sankrala",
+    "wof:parent_id":890413167,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -4.66561,
+    10.65721,
+    -4.66561,
+    10.65721
+],
+  "geometry": {"coordinates":[-4.66561,10.65721],"type":"Point"}
+}

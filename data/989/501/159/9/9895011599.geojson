@@ -1,0 +1,74 @@
+{
+  "id": 9895011599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.25998,12.55398,-1.25998,12.55398",
+    "geom:latitude":12.55398,
+    "geom:longitude":-1.25998,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11947785: name \"Songpelc\u00e9\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11947785"
+        },
+        {
+            "citation":"GeoNames populated place 11947785: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11947785"
+        },
+        {
+            "citation":"GeoNames populated place 11947785: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11947785"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413157 (Oubritenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413157,
+        1108805691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11947785
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"576fb1e6914bad752b41c6ecc127a2db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413157,
+            "locality_id":9895011599,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":9895011599,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Songpelc\u00e9",
+    "wof:parent_id":890413157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.25998,
+    12.55398,
+    -1.25998,
+    12.55398
+],
+  "geometry": {"coordinates":[-1.25998,12.55398],"type":"Point"}
+}

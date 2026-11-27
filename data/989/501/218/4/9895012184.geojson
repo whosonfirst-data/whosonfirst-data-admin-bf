@@ -1,0 +1,74 @@
+{
+  "id": 9895012184,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.02146,13.31462,-2.02146,13.31462",
+    "geom:latitude":13.31462,
+    "geom:longitude":-2.02146,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12503767: name \"Outoum-Silmi-Mossi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12503767"
+        },
+        {
+            "citation":"GeoNames populated place 12503767: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12503767"
+        },
+        {
+            "citation":"GeoNames populated place 12503767: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12503767"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421457 (Yatenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890421457,
+        1108805701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12503767
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"212b2728d1f370ce6483b5412b4b09c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421457,
+            "locality_id":9895012184,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":9895012184,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Outoum-Silmi-Mossi",
+    "wof:parent_id":890421457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.02146,
+    13.31462,
+    -2.02146,
+    13.31462
+],
+  "geometry": {"coordinates":[-2.02146,13.31462],"type":"Point"}
+}

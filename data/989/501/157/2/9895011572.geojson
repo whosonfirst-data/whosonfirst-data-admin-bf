@@ -1,0 +1,74 @@
+{
+  "id": 9895011572,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.9294,12.64288,-1.9294,12.64288",
+    "geom:latitude":12.64288,
+    "geom:longitude":-1.9294,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11915198: name \"Bolkiengo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11915198"
+        },
+        {
+            "citation":"GeoNames populated place 11915198: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11915198"
+        },
+        {
+            "citation":"GeoNames populated place 11915198: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11915198"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428981 (Boulkiemd\u00e9), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428981,
+        1108805695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11915198
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"62f88b1177a4e775e9736b647596dead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428981,
+            "locality_id":9895011572,
+            "region_id":1108805695
+        }
+    ],
+    "wof:id":9895011572,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Bolkiengo",
+    "wof:parent_id":890428981,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.9294,
+    12.64288,
+    -1.9294,
+    12.64288
+],
+  "geometry": {"coordinates":[-1.9294,12.64288],"type":"Point"}
+}

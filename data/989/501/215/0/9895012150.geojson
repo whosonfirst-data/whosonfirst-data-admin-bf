@@ -1,0 +1,74 @@
+{
+  "id": 9895012150,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.37471,12.85217,-0.37471,12.85217",
+    "geom:latitude":12.85217,
+    "geom:longitude":-0.37471,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12495383: name \"Lillougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12495383"
+        },
+        {
+            "citation":"GeoNames populated place 12495383: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12495383"
+        },
+        {
+            "citation":"GeoNames populated place 12495383: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12495383"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413143 (Namentenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413143,
+        1108805709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12495383
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1dae5aa230becd3fb562b9b985e6be4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413143,
+            "locality_id":9895012150,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":9895012150,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Lillougou",
+    "wof:parent_id":890413143,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.37471,
+    12.85217,
+    -0.37471,
+    12.85217
+],
+  "geometry": {"coordinates":[-0.37471,12.85217],"type":"Point"}
+}

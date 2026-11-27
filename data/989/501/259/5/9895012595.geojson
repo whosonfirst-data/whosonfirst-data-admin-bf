@@ -1,0 +1,74 @@
+{
+  "id": 9895012595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.32064,12.96892,-0.32064,12.96892",
+    "geom:latitude":12.96892,
+    "geom:longitude":-0.32064,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13608461: name \"Harga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13608461"
+        },
+        {
+            "citation":"GeoNames populated place 13608461: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13608461"
+        },
+        {
+            "citation":"GeoNames populated place 13608461: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13608461"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428975 (Gnagna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428975,
+        1108805685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13608461
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"daaeb1a67920c8be92da162f428d6c73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":9895012595,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":9895012595,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Harga",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.32064,
+    12.96892,
+    -0.32064,
+    12.96892
+],
+  "geometry": {"coordinates":[-0.32064,12.96892],"type":"Point"}
+}

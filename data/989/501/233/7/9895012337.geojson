@@ -1,0 +1,74 @@
+{
+  "id": 9895012337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-2.31506,13.94937,-2.31506,13.94937",
+    "geom:latitude":13.94937,
+    "geom:longitude":-2.31506,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13164090: name \"Kelwordi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13164090"
+        },
+        {
+            "citation":"GeoNames populated place 13164090: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13164090"
+        },
+        {
+            "citation":"GeoNames populated place 13164090: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13164090"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890453949 (Loroum), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890453949,
+        1108805701
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13164090
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"1fc9a6c5a733dd9b7e2a7b55c20b1b1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453949,
+            "locality_id":9895012337,
+            "region_id":1108805701
+        }
+    ],
+    "wof:id":9895012337,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Kelwordi",
+    "wof:parent_id":890453949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -2.31506,
+    13.94937,
+    -2.31506,
+    13.94937
+],
+  "geometry": {"coordinates":[-2.31506,13.94937],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895011788,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.845,11.9663,0.845,11.9663",
+    "geom:latitude":11.9663,
+    "geom:longitude":0.845,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12226404: name \"Toguiana\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12226404"
+        },
+        {
+            "citation":"GeoNames populated place 12226404: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12226404"
+        },
+        {
+            "citation":"GeoNames populated place 12226404: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12226404"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428971 (Gourma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428971,
+        1108805685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12226404
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"a46c1d8c2a777796a75b44ef17cdbd6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428971,
+            "locality_id":9895011788,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":9895011788,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Toguiana",
+    "wof:parent_id":890428971,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.845,
+    11.9663,
+    0.845,
+    11.9663
+],
+  "geometry": {"coordinates":[0.845,11.9663],"type":"Point"}
+}

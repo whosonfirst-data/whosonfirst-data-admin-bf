@@ -1,0 +1,74 @@
+{
+  "id": 9895012277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.71803,12.14921,1.71803,12.14921",
+    "geom:latitude":12.14921,
+    "geom:longitude":1.71803,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13133111: name \"Koutchiagou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13133111"
+        },
+        {
+            "citation":"GeoNames populated place 13133111: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13133111"
+        },
+        {
+            "citation":"GeoNames populated place 13133111: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13133111"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421459 (Tapoa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890421459,
+        1108805685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13133111
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"ad1f7122c183a4b0a4b2fea86f2c95c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421459,
+            "locality_id":9895012277,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":9895012277,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Koutchiagou",
+    "wof:parent_id":890421459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.71803,
+    12.14921,
+    1.71803,
+    12.14921
+],
+  "geometry": {"coordinates":[1.71803,12.14921],"type":"Point"}
+}

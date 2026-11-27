@@ -1,0 +1,74 @@
+{
+  "id": 9895011568,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.54891,12.69771,-1.54891,12.69771",
+    "geom:latitude":12.69771,
+    "geom:longitude":-1.54891,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11915194: name \"Ouatinoma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11915194"
+        },
+        {
+            "citation":"GeoNames populated place 11915194: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11915194"
+        },
+        {
+            "citation":"GeoNames populated place 11915194: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11915194"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413157 (Oubritenga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413157,
+        1108805691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11915194
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"40a21d74acbbfe94ce70f4d0cd9ec54b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413157,
+            "locality_id":9895011568,
+            "region_id":1108805691
+        }
+    ],
+    "wof:id":9895011568,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Ouatinoma",
+    "wof:parent_id":890413157,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.54891,
+    12.69771,
+    -1.54891,
+    12.69771
+],
+  "geometry": {"coordinates":[-1.54891,12.69771],"type":"Point"}
+}

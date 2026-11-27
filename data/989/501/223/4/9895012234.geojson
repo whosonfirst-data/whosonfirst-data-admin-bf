@@ -1,0 +1,74 @@
+{
+  "id": 9895012234,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.05704,11.59313,0.05704,11.59313",
+    "geom:latitude":11.59313,
+    "geom:longitude":0.05704,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13061059: name \"Yambili\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13061059"
+        },
+        {
+            "citation":"GeoNames populated place 13061059: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13061059"
+        },
+        {
+            "citation":"GeoNames populated place 13061059: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13061059"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890421707 (Koulp\u00e9logo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890421707,
+        1108805705
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13061059
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"681439d434e7816347207c76c4671dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890421707,
+            "locality_id":9895012234,
+            "region_id":1108805705
+        }
+    ],
+    "wof:id":9895012234,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Yambili",
+    "wof:parent_id":890421707,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.05704,
+    11.59313,
+    0.05704,
+    11.59313
+],
+  "geometry": {"coordinates":[0.05704,11.59313],"type":"Point"}
+}

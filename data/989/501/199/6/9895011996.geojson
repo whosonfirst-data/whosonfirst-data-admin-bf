@@ -1,0 +1,74 @@
+{
+  "id": 9895011996,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.22457,12.63008,-3.22457,12.63008",
+    "geom:latitude":12.63008,
+    "geom:longitude":-3.22457,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12440371: name \"Doumbassa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12440371"
+        },
+        {
+            "citation":"GeoNames populated place 12440371: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12440371"
+        },
+        {
+            "citation":"GeoNames populated place 12440371: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12440371"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890453951 (Nayala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890453951,
+        1108805707
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12440371
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"0d38910e0d3ce91b966256dd0da7fded",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890453951,
+            "locality_id":9895011996,
+            "region_id":1108805707
+        }
+    ],
+    "wof:id":9895011996,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Doumbassa",
+    "wof:parent_id":890453951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.22457,
+    12.63008,
+    -3.22457,
+    12.63008
+],
+  "geometry": {"coordinates":[-3.22457,12.63008],"type":"Point"}
+}

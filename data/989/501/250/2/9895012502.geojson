@@ -1,0 +1,74 @@
+{
+  "id": 9895012502,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.00935,12.73928,0.00935,12.73928",
+    "geom:latitude":12.73928,
+    "geom:longitude":0.00935,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13580901: name \"Gori\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13580901"
+        },
+        {
+            "citation":"GeoNames populated place 13580901: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13580901"
+        },
+        {
+            "citation":"GeoNames populated place 13580901: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13580901"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428975 (Gnagna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428975,
+        1108805685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13580901
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"30a1d3c1b189248d1072029f5d7f8e64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":9895012502,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":9895012502,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Gori",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.00935,
+    12.73928,
+    0.00935,
+    12.73928
+],
+  "geometry": {"coordinates":[0.00935,12.73928],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895012627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-0.11706,13.49927,-0.11706,13.49927",
+    "geom:latitude":13.49927,
+    "geom:longitude":-0.11706,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13645848: name \"Dielkou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13645848"
+        },
+        {
+            "citation":"GeoNames populated place 13645848: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13645848"
+        },
+        {
+            "citation":"GeoNames populated place 13645848: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13645848"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428975 (Gnagna), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428975,
+        1108805685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13645848
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"2a0a04ebc6aa508e8cb91d8c613b02d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428975,
+            "locality_id":9895012627,
+            "region_id":1108805685
+        }
+    ],
+    "wof:id":9895012627,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Dielkou",
+    "wof:parent_id":890428975,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -0.11706,
+    13.49927,
+    -0.11706,
+    13.49927
+],
+  "geometry": {"coordinates":[-0.11706,13.49927],"type":"Point"}
+}

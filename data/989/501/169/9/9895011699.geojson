@@ -1,0 +1,74 @@
+{
+  "id": 9895011699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-3.0729,10.2988,-3.0729,10.2988",
+    "geom:latitude":10.2988,
+    "geom:longitude":-3.0729,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12032397: name \"S\u00e9w\u00e8ra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12032397"
+        },
+        {
+            "citation":"GeoNames populated place 12032397: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12032397"
+        },
+        {
+            "citation":"GeoNames populated place 12032397: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12032397"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413151 (Poni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890413151,
+        1108805683
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12032397
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"e1a7f6cbb42f35482ded397872faf424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890413151,
+            "locality_id":9895011699,
+            "region_id":1108805683
+        }
+    ],
+    "wof:id":9895011699,
+    "wof:lastmodified":1795735011,
+    "wof:name":"S\u00e9w\u00e8ra",
+    "wof:parent_id":890413151,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -3.0729,
+    10.2988,
+    -3.0729,
+    10.2988
+],
+  "geometry": {"coordinates":[-3.0729,10.2988],"type":"Point"}
+}

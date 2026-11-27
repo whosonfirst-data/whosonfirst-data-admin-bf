@@ -1,0 +1,74 @@
+{
+  "id": 9895012073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-1.54091,13.44107,-1.54091,13.44107",
+    "geom:latitude":13.44107,
+    "geom:longitude":-1.54091,
+    "iso:country":"BF",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492899: name \"Nakindougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492899"
+        },
+        {
+            "citation":"GeoNames populated place 12492899: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492899"
+        },
+        {
+            "citation":"GeoNames populated place 12492899: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492899"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890428989 (Bam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632213,
+        102191573,
+        890428989,
+        1108805709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492899
+    },
+    "wof:country":"BF",
+    "wof:geomhash":"fa511e8fb7ba4d65a0cf764a28e9c090",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632213,
+            "county_id":890428989,
+            "locality_id":9895012073,
+            "region_id":1108805709
+        }
+    ],
+    "wof:id":9895012073,
+    "wof:lastmodified":1795735011,
+    "wof:name":"Nakindougou",
+    "wof:parent_id":890428989,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bf",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -1.54091,
+    13.44107,
+    -1.54091,
+    13.44107
+],
+  "geometry": {"coordinates":[-1.54091,13.44107],"type":"Point"}
+}
